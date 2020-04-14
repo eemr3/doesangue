@@ -1,0 +1,25 @@
+{
+  "name": "doesangue",
+  "version": "1.0.0",
+  "description": "Site cadastro de doadores de sangue",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eemr3/doesangue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eemr3/doesangue/issues"
+  },
+  "homepage": "https://github.com/eemr3/doesangue#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3",
+    "nunjucks": "^3.2.1"
+  }
+}
