@@ -7,6 +7,6 @@ Back-and: NodeJs
 
 Dependencias: 
 * express
-*nodemon
-*nunjucks
-*pg
+* nodemon
+* nunjucks
+* pg
