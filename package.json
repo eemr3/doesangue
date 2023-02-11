@@ -19,7 +19,7 @@
   "homepage": "https://github.com/eemr3/doesangue#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.3",
+    "nodemon": "^2.0.20",
     "nunjucks": "^3.2.1",
     "pg": "^8.0.2"
   }
